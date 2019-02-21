@@ -52,7 +52,9 @@
     "eslint-plugin-standard": "^3.0.1",
     "jquery": "^3.2.1",
     "mocha": "^3.5.3",
-    "webpack": "^2.7.0"
+    "webpack": "^2.7.0",
+    "lodash": ">=4.17.11",
+    "extend": ">=3.0.2"
   },
   "engines": {
     "node": ">=6.0.0"
